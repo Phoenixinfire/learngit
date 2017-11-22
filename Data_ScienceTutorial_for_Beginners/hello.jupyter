@@ -1,0 +1,27 @@
+[I 22:15:34.156 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[I 22:15:38.296 NotebookApp] [nb_anacondacloud] enabled
+[I 22:15:38.307 NotebookApp] [nb_conda] enabled
+[I 22:15:38.444 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 22:15:38.444 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 22:15:38.458 NotebookApp] Serving notebooks from local directory: /Users/zhangyihong/PycharmProjects/learngit/Data_ScienceTutorial_for_Beginners
+[I 22:15:38.458 NotebookApp] 0 active kernels 
+[I 22:15:38.458 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=80ab66d07d158107b309ea4515e7585dba2b9be56d4185e8
+[I 22:15:38.458 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 22:15:39.630 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 22:15:45.261 NotebookApp] Notebook notebook_code.ipynb is not trusted
+[I 22:16:07.376 NotebookApp] 302 GET /api/sessions?_=1511360139985 (::1) 1.00ms
+[I 22:16:07.384 NotebookApp] 302 GET /api/terminals?_=1511360139986 (::1) 2.65ms
+[I 22:16:08.723 NotebookApp] 302 GET /notebooks/notebook_code.ipynb (::1) 0.85ms
+[I 22:16:33.895 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fnotebook_code.ipynb (::1) 1.51ms
+[W 22:16:36.585 NotebookApp] Notebook notebook_code.ipynb is not trusted
+[I 22:16:43.438 NotebookApp] Kernel started: 9f8b02e3-fdb8-482e-8c9b-3596b726dafa
+[I 22:18:37.047 NotebookApp] Saving file at /notebook_code.ipynb
+[W 22:18:37.049 NotebookApp] Saving untrusted notebook notebook_code.ipynb
+[I 23:04:49.543 NotebookApp] Saving file at /notebook_code.ipynb
+[W 23:04:49.548 NotebookApp] Saving untrusted notebook notebook_code.ipynb
+[I 23:12:08.703 NotebookApp] Saving file at /notebook_code.ipynb
+[W 23:12:08.704 NotebookApp] Saving untrusted notebook notebook_code.ipynb
+[I 23:14:08.702 NotebookApp] Saving file at /notebook_code.ipynb
+[W 23:14:08.704 NotebookApp] Saving untrusted notebook notebook_code.ipynb
+[I 23:16:08.707 NotebookApp] Saving file at /notebook_code.ipynb
+[W 23:16:08.708 NotebookApp] Saving untrusted notebook notebook_code.ipynb
