@@ -1,0 +1,17 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 22:34:32.521 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[I 22:34:32.584 NotebookApp] The port 8888 is already in use, trying another port.
+[I 22:34:32.586 NotebookApp] The port 8889 is already in use, trying another port.
+[I 22:34:34.681 NotebookApp] [nb_anacondacloud] enabled
+[I 22:34:34.699 NotebookApp] [nb_conda] enabled
+[I 22:34:34.860 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 22:34:34.860 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 22:34:34.871 NotebookApp] Serving notebooks from local directory: /Users/zhangyihong/PycharmProjects/learngit/Introduction_to_Ensembling_Stacking_in_Python
+[I 22:34:34.871 NotebookApp] 0 active kernels 
+[I 22:34:34.871 NotebookApp] The Jupyter Notebook is running at: http://localhost:8890/?token=a5655590077b981e3e3914564a4233681963501ec149d3e5
+[I 22:34:34.871 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 22:34:35.470 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 22:42:53.632 NotebookApp] Creating new notebook in 
+[I 22:42:57.130 NotebookApp] Kernel started: 8d5fd586-5378-4fd7-9c6d-d4f5b5b45f3c
+[I 22:44:57.041 NotebookApp] Saving file at /Introduction to Ensembling Stacking in Python.ipynb

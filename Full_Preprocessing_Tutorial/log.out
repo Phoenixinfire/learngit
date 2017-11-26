@@ -1,0 +1,15 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 21:47:36.876 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[I 21:47:36.936 NotebookApp] The port 8888 is already in use, trying another port.
+[I 21:47:38.449 NotebookApp] [nb_anacondacloud] enabled
+[I 21:47:38.459 NotebookApp] [nb_conda] enabled
+[I 21:47:38.577 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 21:47:38.577 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 21:47:38.586 NotebookApp] Serving notebooks from local directory: /Users/zhangyihong/PycharmProjects/learngit/Full_Preprocessing_Tutorial
+[I 21:47:38.586 NotebookApp] 0 active kernels 
+[I 21:47:38.586 NotebookApp] The Jupyter Notebook is running at: http://localhost:8889/?token=a60791796bbcfbffe93914d6c72757ad11e7399b80d85180
+[I 21:47:38.586 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 21:47:39.386 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 21:48:35.731 NotebookApp] Kernel started: 4a1352ba-3224-442a-9dd3-2a751714f96a
+[I 22:32:51.668 NotebookApp] Kernel shutdown: 4a1352ba-3224-442a-9dd3-2a751714f96a
