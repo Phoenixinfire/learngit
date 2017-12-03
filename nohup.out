@@ -1,0 +1,89 @@
+[I 21:14:15.100 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[I 21:14:16.744 NotebookApp] The port 8888 is already in use, trying another port.
+[I 21:14:16.745 NotebookApp] The port 8889 is already in use, trying another port.
+[I 21:14:16.747 NotebookApp] The port 8890 is already in use, trying another port.
+[I 21:14:18.646 NotebookApp] [nb_anacondacloud] enabled
+[I 21:14:18.666 NotebookApp] [nb_conda] enabled
+[I 21:14:18.888 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 21:14:18.889 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 21:14:18.900 NotebookApp] Serving notebooks from local directory: /Users/zhangyihong/PycharmProjects/learngit
+[I 21:14:18.900 NotebookApp] 0 active kernels 
+[I 21:14:18.900 NotebookApp] The Jupyter Notebook is running at: http://localhost:8891/?token=6204ff002fd9a4b771d55e2ca7862bb7cf8a63f709d2e029
+[I 21:14:18.900 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 21:14:19.567 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 21:14:30.315 NotebookApp] Creating new notebook in /kagglers_say_about_datascience
+[I 21:14:31.271 NotebookApp] Kernel started: 99c0cc05-791f-4c8f-81d9-8f66088c76d2
+[I 21:16:31.175 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:28:14.384 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+RespondentTypeREADME.txt
+conversionRates.csv
+freeformResponses.csv
+multipleChoiceResponses.csv
+schema.csv
+RespondentTypeREADME.txt
+conversionRates.csv
+freeformResponses.csv
+multipleChoiceResponses.csv
+schema.csv
+RespondentTypeREADME.txt
+conversionRates.csv
+freeformResponses.csv
+multipleChoiceResponses.csv
+schema.csv
+RespondentTypeREADME.txt
+conversionRates.csv
+freeformResponses.csv
+multipleChoiceResponses.csv
+schema.csv
+[I 21:30:14.380 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:32:14.385 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:34:14.387 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:38:14.423 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:42:22.785 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 08:39:32.602 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 08:47:32.604 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 08:49:32.632 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 08:58:37.222 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 09:04:44.177 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 09:08:44.177 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 09:10:44.194 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 09:12:44.183 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 09:14:44.183 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 09:16:47.916 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 09:26:21.251 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 09:30:27.001 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 09:32:27.006 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 09:57:47.555 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 09:59:47.545 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:23:30.518 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:25:30.901 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:27:30.916 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:37:52.500 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:39:52.552 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:41:52.504 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:43:52.514 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:50:13.273 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:52:13.280 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:54:13.345 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:56:13.295 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 10:58:13.301 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 11:08:02.442 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 11:12:18.545 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 11:14:18.547 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 11:16:18.563 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 11:22:21.468 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:34:29.086 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:36:29.032 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:38:29.040 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:40:29.039 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:42:29.074 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:44:29.051 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:48:30.055 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:50:30.056 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:52:40.108 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:56:48.136 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 21:58:49.734 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 22:00:49.775 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 22:02:49.750 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 22:04:49.786 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[I 23:00:06.636 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
