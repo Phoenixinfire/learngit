@@ -87,3 +87,53 @@ schema.csv
 [I 22:02:49.750 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
 [I 22:04:49.786 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
 [I 23:00:06.636 NotebookApp] Saving file at /kagglers_say_about_datascience/kaggler_profile.ipynb
+[W 22:29:51.958 NotebookApp] Notebook kagglers_say_about_datascience/__notebook__.ipynb is not trusted
+[W 22:30:27.973 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171202211415 (::1) 20.47ms referer=http://localhost:8891/notebooks/kagglers_say_about_datascience/__notebook__.ipynb
+[I 22:30:33.788 NotebookApp] Kernel started: f59f6da2-dc1b-4a00-a501-3a1203da7d6b
+[I 22:32:26.332 NotebookApp] Saving file at /kagglers_say_about_datascience/__notebook__.ipynb
+[W 22:32:26.341 NotebookApp] Saving untrusted notebook kagglers_say_about_datascience/__notebook__.ipynb
+[I 22:59:44.832 NotebookApp] Kernel shutdown: 99c0cc05-791f-4c8f-81d9-8f66088c76d2
+[I 23:00:03.496 NotebookApp] Kernel restarted: f59f6da2-dc1b-4a00-a501-3a1203da7d6b
+[I 23:00:28.770 NotebookApp] Kernel shutdown: f59f6da2-dc1b-4a00-a501-3a1203da7d6b
+[W 23:00:34.280 NotebookApp] Notebook kagglers_say_about_datascience/__notebook__.ipynb is not trusted
+[I 23:01:04.485 NotebookApp] Kernel started: 04ff72ae-495d-4922-92b5-f1a2075b94b1
+[I 23:02:17.485 NotebookApp] Kernel shutdown: 04ff72ae-495d-4922-92b5-f1a2075b94b1
+[I 23:02:20.182 NotebookApp] Kernel started: 16a21d4d-eab6-4816-9ceb-5c49191194f9
+[I 23:03:04.589 NotebookApp] Saving file at /kagglers_say_about_datascience/__notebook__.ipynb
+[W 23:03:04.596 NotebookApp] Saving untrusted notebook kagglers_say_about_datascience/__notebook__.ipynb
+[I 23:07:03.348 NotebookApp] Saving file at /kagglers_say_about_datascience/__notebook__.ipynb
+[W 23:07:03.360 NotebookApp] Saving untrusted notebook kagglers_say_about_datascience/__notebook__.ipynb
+[I 22:52:21.246 NotebookApp] Creating new notebook in 
+[I 22:52:21.656 NotebookApp] Kernel started: 7aeabbac-3a2c-49ce-93bb-063dafc25c0b
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/Users/zhangyihong/anaconda/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 228, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/Users/zhangyihong/anaconda/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 425, in complete_request
+    matches = self.do_complete(code, cursor_pos)
+  File "/Users/zhangyihong/anaconda/lib/python2.7/site-packages/ipykernel/ipkernel.py", line 257, in do_complete
+    txt, matches = self.shell.complete('', line, line_cursor)
+  File "/Users/zhangyihong/anaconda/lib/python2.7/site-packages/IPython/core/interactiveshell.py", line 1986, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/Users/zhangyihong/anaconda/lib/python2.7/site-packages/IPython/core/completer.py", line 84, in comp
+    text, matches =  complete(*args, **kwargs)
+  File "/Users/zhangyihong/anaconda/lib/python2.7/site-packages/IPython/core/completer.py", line 1193, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/Users/zhangyihong/anaconda/lib/python2.7/site-packages/IPython/core/completer.py", line 1117, in dispatch_custom_completer
+    res = c(event)
+  File "/Users/zhangyihong/anaconda/lib/python2.7/site-packages/IPython/core/completerlib.py", line 253, in module_completer
+    return module_completion(event.line)
+  File "/Users/zhangyihong/anaconda/lib/python2.7/site-packages/IPython/core/completerlib.py", line 236, in module_completion
+    return try_import(mod)
+  File "/Users/zhangyihong/anaconda/lib/python2.7/site-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[I 22:54:21.640 NotebookApp] Saving file at /hmm_test.ipynb
+[I 22:56:21.676 NotebookApp] Saving file at /hmm_test.ipynb
+[I 23:00:50.350 NotebookApp] Saving file at /hmm_test.ipynb
+[I 23:02:50.337 NotebookApp] Saving file at /hmm_test.ipynb
+[I 23:04:50.335 NotebookApp] Saving file at /hmm_test.ipynb
+[I 23:14:50.375 NotebookApp] Saving file at /hmm_test.ipynb
+[I 23:16:50.355 NotebookApp] Saving file at /hmm_test.ipynb
+[I 23:18:50.369 NotebookApp] Saving file at /hmm_test.ipynb
+[I 23:19:30.846 NotebookApp] Saving file at /hmm_test.ipynb
