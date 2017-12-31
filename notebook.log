@@ -1,0 +1,21 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 22:18:49.432 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[I 22:18:51.050 NotebookApp] [nb_anacondacloud] enabled
+[I 22:18:51.064 NotebookApp] [nb_conda] enabled
+[I 22:18:51.186 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 22:18:51.187 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 22:18:51.198 NotebookApp] Serving notebooks from local directory: /Users/zhangyihong/PycharmProjects/learngit
+[I 22:18:51.198 NotebookApp] 0 active kernels 
+[I 22:18:51.198 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=372759fd8f9b9a99a9cef7316dcff22280be1c33b9ad813c
+[I 22:18:51.199 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 22:18:52.253 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 22:18:59.333 NotebookApp] Notebook A_Journey_through_Titanic/code.ipynb is not trusted
+[I 22:19:38.828 NotebookApp] Kernel started: da83931c-07da-4b22-b248-1291603350cc
+[I 22:20:40.531 NotebookApp] Saving file at /A_Journey_through_Titanic/code.ipynb
+[W 22:20:40.534 NotebookApp] Saving untrusted notebook A_Journey_through_Titanic/code.ipynb
+[I 22:21:04.473 NotebookApp] Saving file at /A_Journey_through_Titanic/code.ipynb
+[W 22:21:04.477 NotebookApp] Saving untrusted notebook A_Journey_through_Titanic/code.ipynb
+[I 22:23:04.473 NotebookApp] Saving file at /A_Journey_through_Titanic/code.ipynb
+[W 22:23:04.481 NotebookApp] Saving untrusted notebook A_Journey_through_Titanic/code.ipynb
+[W 23:11:56.023 NotebookApp] Notebook A_Journey_through_Titanic/code.ipynb is not trusted
